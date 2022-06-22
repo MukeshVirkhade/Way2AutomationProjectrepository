@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"  allow-return-values="true">
+  <test name="Test">
+    <classes>
+      <!-- <class name="com.way2automation.qa.testcases.LoginPageTest"></class> -->
+      <!-- <class name="com.way2automation.qa.testcases.ElementsPageTest"></class> -->
+      <!--  <class name="com.way2automation.qa.testcases.TextBoxPageTest"></class> -->
+      <!-- <class name="com.way2automation.qa.testcases.RadioButtonPageTest"></class> -->
+      <!-- <class name="com.way2automation.qa.testcases.WebTablesTest"></class>  -->
+     <!-- <class name="com.way2automation.qa.testcases.ButtonsPageTest"></class> -->
+     <!-- <class name="com.way2automation.qa.testcases.LinkPageTest"></class> -->
+     <!--  class name="com.way2automation.qa.testcases.BrokenLinksPageTest"></class>-->
+     <!-- <class name="com.way2automation.qa.testcases.UploadAndDownloadPageTest"></class> -->
+     <!-- <class name="com.way2automation.qa.testcases.FormsPageTest"></class> -->
+     <class name="com.way2automation.qa.testcases.FormsPage2Test"></class>
+     
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

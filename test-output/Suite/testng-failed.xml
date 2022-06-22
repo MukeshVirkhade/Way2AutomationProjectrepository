@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" allow-return-values="true">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.way2automation.qa.testcases.FormsPage2Test">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="EnternameTest"/>
+        </methods>
+      </class> <!-- com.way2automation.qa.testcases.FormsPage2Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
